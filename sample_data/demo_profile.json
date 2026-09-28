@@ -1,0 +1,13 @@
+{
+  "name": "Alex Student",
+  "email": "alex.student@university.edu",
+  "age": 22,
+  "sex": "male",
+  "height_cm": 175.0,
+  "weight_kg": 72.0,
+  "activity_level": "moderate",
+  "dietary_preference": "veg",
+  "goal": "weight_loss",
+  "allergies": ["lactose"],
+  "notes": "Student preparing for cloud computing lab viva. Needs high-protein veg meal ideas."
+}

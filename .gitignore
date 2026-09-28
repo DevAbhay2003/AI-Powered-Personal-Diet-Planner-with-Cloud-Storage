@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+test_*.db
+
+# Node & Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Environment & Credentials
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+*.key
+firebase-key.json
+google-credentials.json
+
+# Databases & Local Storage Blobs
+*.db
+*.sqlite3
+cloud_storage_bucket/*
+!cloud_storage_bucket/.gitkeep
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

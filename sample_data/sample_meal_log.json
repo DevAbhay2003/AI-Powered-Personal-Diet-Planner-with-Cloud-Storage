@@ -1,0 +1,32 @@
+{
+  "date": "2026-09-28",
+  "items": [
+    {
+      "food_name": "Rolled Oats Porridge",
+      "portion_g": 200,
+      "calories": 260,
+      "protein_g": 9.0,
+      "carbs_g": 46.0,
+      "fat_g": 5.0,
+      "meal_type": "breakfast"
+    },
+    {
+      "food_name": "Steamed Brown Rice with Yellow Moong Dal",
+      "portion_g": 300,
+      "calories": 420,
+      "protein_g": 18.6,
+      "carbs_g": 73.5,
+      "fat_g": 6.0,
+      "meal_type": "lunch"
+    },
+    {
+      "food_name": "Roasted Spiced Foxnuts (Makhana)",
+      "portion_g": 40,
+      "calories": 140,
+      "protein_g": 3.8,
+      "carbs_g": 25.6,
+      "fat_g": 2.6,
+      "meal_type": "snack"
+    }
+  ]
+}

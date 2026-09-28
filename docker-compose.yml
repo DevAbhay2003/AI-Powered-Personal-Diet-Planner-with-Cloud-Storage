@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: diet-planner-api
+    ports:
+      - "8000:8080"
+    environment:
+      - PORT=8080
+      - CLOUD_ENVIRONMENT=production
+      - CLOUD_REGION=us-east-1
+      - DATABASE_PROVIDER=cloud_database_sqlite_managed
+      - STORAGE_PROVIDER=cloud_object_storage_simulated
+      - JWT_SECRET=production-secret-token-cloud-diet-planner-2026
+    volumes:
+      - ./data:/app/data
+      - ./cloud_storage_bucket:/app/cloud_storage_bucket
+    restart: unless-stopped
