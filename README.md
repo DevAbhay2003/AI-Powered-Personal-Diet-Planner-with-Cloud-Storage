@@ -368,3 +368,4 @@ Refer to [screenshots/README.md](screenshots/README.md) for full image capture g
 - **Project:** AI-Powered Personal Diet Planner with Cloud Storage
 - **Course:** Cloud Computing Capstone
 - **Core Competencies:** Cloud Architecture, FastAPI, React, Cloud Database, Object Storage, IoT Telemetry, Pytest.
+- **Abhishek Basu — Embedded Systems Student GitHub: [DevAbhay2003](https://github.com/DevAbhay2003?tab=repositories) · LinkedIn: [Abhishek Basu](https://www.linkedin.com/in/abhishek-basu-68b1b1342/)**
